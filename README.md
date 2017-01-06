@@ -1,19 +1,19 @@
 ![RoboFacebook](fb-bot.png)
 
 
-## How To Get Started Building Facebook Messenger Platform Bots
+### How To Get Started Building Facebook Messenger Platform Bots
 
 * https://arc.applause.com/2016/04/15/how-to-build-facebook-messenger-platform-bots/
 
 
-## Instalación:
+### Instalación:
 
 ```
 npm install
 ``` 
 
 
-## Ejemplo del output de fb:
+### Ejemplo del output de fb:
 
 ```json
 {
@@ -43,7 +43,7 @@ npm install
 }
 ```
 
-## Recuersos
+### Recursos
 
 * https://developers.facebook.com/products/messenger/
 * https://developers.facebook.com/docs/messenger-platform
