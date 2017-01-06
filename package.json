@@ -1,0 +1,21 @@
+{
+  "name": "fb-bot",
+  "version": "1.0.0",
+  "description": "Prueba de bot para facebook usando node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "facebook"
+  ],
+  "author": "Angel Cruz <me@abr4xas.org>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  }
+}
